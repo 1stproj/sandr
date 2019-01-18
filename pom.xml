@@ -36,7 +36,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>vaadin-snapshots</id>
-            <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
+            <url>http://ec2-35-154-169-202.ap-south-1.compute.amazonaws.com:8083/nexus/content/repositories/tomboy-snapshot/</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
